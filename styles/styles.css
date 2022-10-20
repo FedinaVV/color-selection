@@ -164,6 +164,11 @@ body {
   .wrapper-btn {
     margin: 10px 0;
   }
+  .col {
+    flex-direction: row;
+    flex: 0;
+    padding: 15px 0;
+  }
   .row {
     flex-direction: column;
   }
