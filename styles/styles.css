@@ -167,7 +167,7 @@ body {
   .col {
     flex-direction: row;
     flex: 0;
-    padding: 15px 0;
+    padding: 20px 0;
   }
   .row {
     flex-direction: column;
